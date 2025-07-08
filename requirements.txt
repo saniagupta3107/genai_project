@@ -1,0 +1,8 @@
+streamlit
+pandas
+google-cloud-bigquery
+google-generativeai
+db-dtypes
+plotly
+geopy
+prophet

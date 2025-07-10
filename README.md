@@ -4,9 +4,10 @@
 1. Sania Gupta  
 2. Anushka Singh Rajput
 
+🚀 Built with the goal of **solving real-world seller problems** through **Generative AI + Data Visualization**.
+
 A Meesho-inspired AI-powered inventory dashboard designed to help small and mid-sized sellers manage their stock efficiently using intelligent forecasts, deadstock detection, and restock recommendations — all in one place.
 
-🚀 Built with the goal of **solving real-world seller problems** through **Generative AI + Data Visualization**.
 
 ---
 
